@@ -10,9 +10,9 @@
 
 ## 💻 Tecnologias Usadas
 
--Todos modelos utilizados foram modelos de classificação por se tratar de um problema de aprovar ou não aprovar(1,0)
--Utilizei a biblioteca pandas e scikit-learn
--O modelo que mais performou foi o modelo gradient-boosting a qual sua principal função é aprender com seus erros de previsão e assim criar árvores de decisões aprimoradas com os erros de suas anteriores
+##### Todos modelos utilizados foram modelos de classificação por se tratar de um problema de aprovar ou não aprovar(1,0)
+##### Utilizei a biblioteca pandas e scikit-learn
+##### O modelo que mais performou foi o modelo gradient-boosting a qual sua principal função é aprender com seus erros de previsão e assim criar árvores de decisões aprimoradas com os erros de suas anteriores
 
 
 
