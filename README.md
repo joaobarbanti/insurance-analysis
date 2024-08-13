@@ -1,6 +1,6 @@
 ##  📂 Previsão preço de seguros de saúde
 
-### Projeto com o intuito de utilizar modelos de machine learning para prever preços de seguros de saúde a partir de dados chave como renda, idade, se é fumante ou não e etc
+### Projeto com o intuito de utilizar modelos de machine learning para prever preços de seguros de saúde a partir de dados chave como renda, idade, fumante e etc
 
 ## 💻 Processo Técnico
 
