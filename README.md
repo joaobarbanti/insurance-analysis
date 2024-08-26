@@ -15,11 +15,11 @@
 ![download (2)](https://github.com/user-attachments/assets/24e29fff-c0e8-43c2-9cbf-e9f51a1eb9da)
 
 ### Gráficos de fumantes por sexo:
-![download (3)](https://github.com/user-attachments/assets/aaf87b27-9bcc-4d6f-a571-8292685969ad)
-![download (4)](https://github.com/user-attachments/assets/eaefbdaa-603e-418f-b52a-80bf9c912e70)
+![download (4)](https://github.com/user-attachments/assets/90a64636-aad5-4b67-aa5c-4aa5897c5b13)
+![download (5)](https://github.com/user-attachments/assets/a1d437b1-dcbe-449c-8dfb-774cb80fc5c8)
 
 ### Preço do seguro para pessoas fumantes e não fumantes:
-![download (5)](https://github.com/user-attachments/assets/3363bbdc-717e-426b-b8fd-d667622b4f64)
+![download (3)](https://github.com/user-attachments/assets/ed1ffd4f-d6f5-445c-83a7-9dec9fa0260d)
 
 ## 💻 Tecnologias Usadas
 
