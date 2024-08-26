@@ -15,8 +15,8 @@
 ![download (2)](https://github.com/user-attachments/assets/24e29fff-c0e8-43c2-9cbf-e9f51a1eb9da)
 
 ### Gráficos de fumantes por sexo:
-![download (4)](https://github.com/user-attachments/assets/90a64636-aad5-4b67-aa5c-4aa5897c5b13)
-![download (5)](https://github.com/user-attachments/assets/a1d437b1-dcbe-449c-8dfb-774cb80fc5c8)
+![download (6)](https://github.com/user-attachments/assets/f1799bc4-9bcf-45c9-9b6c-447a7c16695c)
+![download (7)](https://github.com/user-attachments/assets/f7b6f8bf-5cc7-47df-8646-49fec33b3b8f)
 
 ### Preço do seguro para pessoas fumantes e não fumantes:
 ![download (3)](https://github.com/user-attachments/assets/ed1ffd4f-d6f5-445c-83a7-9dec9fa0260d)
